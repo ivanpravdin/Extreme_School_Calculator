@@ -1,6 +1,6 @@
 # Extreme School Calculator
 
-Extreme School Calculatro is designed to help high school students with everyday tasks.
+Extreme School Calculatro is designed to help high school students with everyday tasks.  
 Calculatro includes following fucntion:
 - Math calculator 
 - Study Hours
