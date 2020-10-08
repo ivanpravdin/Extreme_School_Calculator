@@ -12,6 +12,7 @@ Calculator includes following functions:
     
       
 ## Math calculator  
-Math calculator can calculate easy mathematical equations. Currently it supports following mathematical operation: "+", "-", "\*", and "/". Calculator does not support "(" and ")".  
+Math calculator can calculate easy mathematical equations. Currently it supports following mathematical operation: "+", "-", "\*", and "/".   
+Calculator does not support "(" and ")".  
 In order to use it, please choose option №1 and write down equation in the following format: 5 * 7 / 4 - 9  
 
