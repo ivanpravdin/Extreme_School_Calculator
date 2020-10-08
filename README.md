@@ -27,7 +27,14 @@ Sleeping calculator will help you to calculate when you should go to bed or when
 In order to use Sleeping calculator, please, choose option №3 and write down what information you want to get (1 for calculating wake up time and 2 for calculating time when you should go to bed).  
 If you have chosen option №2, ESC will ask you for the time when you want to wake up. Please, write down time in the following format: 8:45.  
   
+  
+    
+## Pascal's triangle  
+Pascal's triangle function will print first N rows of the Pascal's triangle.
+In order to use Pascal's triangle function, please, choose option №4 and write down number N of first rows.  
+  
     
       
+
 
 
