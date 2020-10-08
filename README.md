@@ -1,6 +1,6 @@
 # Extreme School Calculator
 
-Extreme School Calculatro is designed to help high school students with everyday tasks. 
+Extreme School Calculator is designed to help high school students with everyday tasks. 
   
 Calculator includes following functions:
 - Math calculator 
@@ -8,5 +8,8 @@ Calculator includes following functions:
 - Sleeping calculator
 - Pascal's tringle
 - Hex to Bin to Dec Converter
-
+  
+    
+      
+# Math calculator
 
