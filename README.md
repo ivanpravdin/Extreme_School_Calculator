@@ -7,7 +7,7 @@ Calculator includes following functions:
 - Study Hours
 - Sleeping calculator
 - Pascal's tringle
-- Hex to Bin to Dec Converter
+- Hex to Bin to Dec converter
   
     
       
@@ -35,6 +35,8 @@ In order to use Pascal's triangle function, please, choose option №4 and write
   
     
       
-
-
+## Hex to Bin to Dec converter  
+Hex to Bin to Dec converter will convert number from any of those bases to any other.  
+In order to use Hex to Bin to Dec converter, please, choose option №5. Then write down base of the number you want to convert in the following format: hex/bin/dec.  
+After that write down the base you want to convert the number to. And finally, please, write down the number you want to convert.
 
