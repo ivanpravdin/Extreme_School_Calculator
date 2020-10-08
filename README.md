@@ -11,5 +11,5 @@ Calculator includes following functions:
   
     
       
-# Math calculator
+## Math calculator
 
