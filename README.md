@@ -24,7 +24,7 @@ In order to get information about Study Hours, please, choose option №2 and wr
 
 ## Sleeping calculator  
 Sleeping calculator will help you to calculate when you should go to bed or when you should wake up.  
-In order to use Sleeping calculator, please, choose option №3 and write down what information you want to get (1 for calculating wake up time and 2 for calculating wake up time).  
+In order to use Sleeping calculator, please, choose option №3 and write down what information you want to get (1 for calculating wake up time and 2 for calculating time when you should go to bed).  
 If you have chosen option №2, ESC will ask you for the time when you want to wake up. Please, write down time in the following format: 8:45.  
   
     
