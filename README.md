@@ -20,7 +20,7 @@ In order to use it, please, choose option №1 and write down equation in the fo
   
 ## Study Hours
 Study Hours function will display you the essential information based on your year.  
-In order to get information about Study Hours, please, choose option №2 and write down your year.  
+In order to get information about Study Hours, please, choose option №2 and write down your year of study.  
 
 ## Sleeping calculator  
 Sleeping calculator will help you to calculate when you should go to bed or when you should wake up.  
